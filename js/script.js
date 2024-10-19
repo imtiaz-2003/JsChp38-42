@@ -3,7 +3,7 @@ function showOutPut(output) {
   document.getElementById("output").innerHTML = output;
 }
 
-// clear output function
+// clear function
 function clearOutPut() {
   document.getElementById("output").innerHTML = "";
 }
