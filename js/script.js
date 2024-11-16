@@ -9,7 +9,7 @@ function clearOutPut() {
 }
 
 // ------if else statemment use case ---------------
-// get name of Today With If Else Statement  ---------------
+// get name of Today With If Else Statement  --------
 function if_else() {
   let now = new Date();
   let Today = now.getDay();
