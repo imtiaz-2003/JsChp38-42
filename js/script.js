@@ -8,7 +8,7 @@ function clearOutPut() {
   document.getElementById("output").innerHTML = "";
 }
 
-// ------if else statemment use case --
+// ------if else statemment use case ---
 // get name of Today With If Else Statement --
 function if_else() {
   let now = new Date();
@@ -65,7 +65,7 @@ function switch_Statement() {
   }
 }
 
-// keep asking Name function ------
+// keep asking Name function -----
 
 function keepAskingName() {
   do {
