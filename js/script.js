@@ -65,7 +65,7 @@ function switch_Statement() {
   }
 }
 
-// keep asking Name function ----
+// keep asking Name function -
 
 function keepAskingName() {
   do {
